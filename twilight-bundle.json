@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "test fmf",
+        "en": "test fmf"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "nexa.digital105@gmail.com",
+    "support_url": "",
+    "repository": "https://github.com/nexadigital105-rgb/tw-test-fmf",
+    "components": []
+}
